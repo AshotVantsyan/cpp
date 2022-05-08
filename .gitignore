@@ -1,3 +1,4 @@
+# CMake excludes
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -9,3 +10,13 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
+# Ignore build outputs
+**/bin/
+**/lib/
+
+# Ignore CMake build directory
+**/build/
+
+# Ignore clang cache directory
+**/.cache
