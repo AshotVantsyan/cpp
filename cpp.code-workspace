@@ -1,12 +1,16 @@
 {
 	"folders": [
 		{
-            "name": "Section 4",
+			"name": "Section 4",
 			"path": "challenge_section_4"
 		},
 		{
-            "name": "Section 5",
+			"name": "Section 5",
 			"path": "challenge_section_5"
+		},
+		{
+            "name": "Remove String Spaces",
+			"path": "kata_1"
 		}
 	],
 	"settings": {
