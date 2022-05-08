@@ -1,10 +1,12 @@
 {
 	"folders": [
 		{
+            "name": "Section 4",
 			"path": "challenge_section_4"
 		},
 		{
-			"path": "challenge_section_5_1"
+            "name": "Section 5",
+			"path": "challenge_section_5"
 		}
 	],
 	"settings": {
