@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "challenge_section_4"
+		},
+		{
+			"path": "challenge_section_5_1"
 		}
-	]
+	],
+	"settings": {
+		"sonarlint.pathToCompileCommands": "${workspaceFolder}/build/compile_commands.json"
+	}
 }
