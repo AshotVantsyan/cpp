@@ -15,6 +15,10 @@
 		{
             "name": "Remove String Spaces",
 			"path": "kata_1"
+		},
+		{
+            "name": "Is a number prime?",
+			"path": "kata_2"
 		}
 	],
 	"settings": {
