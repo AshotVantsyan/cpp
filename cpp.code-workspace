@@ -9,6 +9,10 @@
 			"path": "challenge_section_5"
 		},
 		{
+			"name": "Section 6",
+			"path": "challenge_section_6"
+		},
+		{
             "name": "Remove String Spaces",
 			"path": "kata_1"
 		}
