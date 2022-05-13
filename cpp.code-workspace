@@ -19,7 +19,12 @@
 		{
             "name": "Is a number prime?",
 			"path": "kata_2"
+		},
+		{
+            "name": "Reverse words",
+			"path": "kata_3"
 		}
+
 	],
 	"settings": {
 		"sonarlint.pathToCompileCommands": "${workspaceFolder}/build/compile_commands.json"
