@@ -21,6 +21,10 @@
 			"path": "challenge_section_8"
 		},
 		{
+			"name": "Section 10 Assignment 1",
+			"path": "section_10_assignment"
+		},
+		{
             "name": "Remove String Spaces",
 			"path": "kata_1"
 		},
