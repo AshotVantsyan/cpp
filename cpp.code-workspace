@@ -25,18 +25,21 @@
 			"path": "section_10_assignment"
 		},
 		{
-            "name": "Remove String Spaces",
+			"name": "Section 12",
+			"path": "challenge_section_12"
+		},
+		{
+			"name": "Remove String Spaces",
 			"path": "kata_1"
 		},
 		{
-            "name": "Is a number prime?",
+			"name": "Is a number prime?",
 			"path": "kata_2"
 		},
 		{
-            "name": "Reverse words",
+			"name": "Reverse words",
 			"path": "kata_3"
 		}
-
 	],
 	"settings": {
 		"sonarlint.pathToCompileCommands": "${workspaceFolder}/build/compile_commands.json"
